@@ -1,0 +1,6 @@
+Json:30
+Alesha:20
+Obama:10
+Michael Jackson:40
+Speed Freak:50
+Sub Zero:20

@@ -4,3 +4,4 @@ Obama:10
 Michael Jackson:40
 Speed Freak:50
 Sub Zero:20
+:0

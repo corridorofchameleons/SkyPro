@@ -31,7 +31,7 @@ def main():
                 print(f'Неверно! Верный ответ – {word}')
 
         # сохраняет результат
-        write_results(username, result)
+        write_result(username, result)
 
         # получает статистику
         results = read_results()

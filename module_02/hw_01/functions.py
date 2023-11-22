@@ -32,10 +32,9 @@ def read_words(filename=WORDS_FILENAME):
             return lines
     except:
         print('Ошибка чтения файла')
-        return
 
 
-def write_results(name, res, filename=RESULTS_FILENAME):
+def write_result(name, res, filename=RESULTS_FILENAME):
     '''
     Сохраняет результат
     :param filename:
